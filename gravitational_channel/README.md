@@ -5,7 +5,8 @@
 ### Abstract
 
 ### Notebooks
-1. [analysis_of_experimental_requirements](https://github.com/andreamari/optomechanics/blob/master/gravitational_channel/analysis_of_experimental_requirements.ipynb)
+1. [gravity_mediated_channel_full_solution](https://github.com/andreamari/optomechanics/blob/master/gravitational_channel/gravity_mediated_channel_full_solution.ipynb)
+2. [analysis_of_experimental_requirements](https://github.com/andreamari/optomechanics/blob/master/gravitational_channel/analysis_of_experimental_requirements.ipynb)
 
 ### How to use
 The code is written in Python and is organized in self-contained Jupyter notebooks.
