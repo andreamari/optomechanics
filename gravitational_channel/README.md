@@ -1,6 +1,6 @@
 ## Can gravity mediate the transmission of quantum information?
 
-### [arXiv:xxxx.xxxx](https://arxiv.org/abs/xxxx.xxxx)
+### [arXiv:2504.05998](https://arxiv.org/abs/2504.05998)
 
 ### Abstract
 
